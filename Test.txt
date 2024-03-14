@@ -1,0 +1,3 @@
+hai
+You are learning git
+stay focused
